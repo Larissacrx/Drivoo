@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Uber+Move:wght@700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global Styles */
+body {
+  font-family: "Uber Move", sans-serif;
+  background-color: #f9f9f9; /* Light background for better contrast */
+  color: #333; /* Dark text for readability */
+  line-height: 1.6; /* Improved readability */
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  body {
+    font-size: 16px; /* Adjust font size for smaller screens */
+  }
+}
+
+/* Utility Classes */
+.text-center {
+  text-align: center; /* Center text utility */
+}
+
+.mt-4 {
+  margin-top: 1rem; /* Margin top utility */
+}
+
+.p-4 {
+  padding: 1rem; /* Padding utility */
+}
+
