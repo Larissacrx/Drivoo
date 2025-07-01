@@ -1,6 +1,9 @@
+
 # Drivoo
 
 Aplicação React em TypeScript com TailwindCSS inspirada no design da Uber para solicitar corridas, com páginas integradas de Login e Cadastro.
+
+![Captura de tela 2025-07-01 023923](https://github.com/user-attachments/assets/ab93a4a3-eb2f-44d9-b708-938e0c069c27)
 
 ---
 
